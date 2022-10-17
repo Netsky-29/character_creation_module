@@ -119,4 +119,4 @@ def main():
     print(start_training(char_name, char_class))
 
 
-main()
+main()111
